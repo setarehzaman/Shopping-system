@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\setar\\Documents\\C# projects\\week7\\Hw7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DED585-C42E-47ED-88BC-1E65B3FC4ED4}|Hw7\\Hw7.csproj|c:\\users\\setar\\documents\\c# projects\\week7\\hw7\\hw7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DED585-C42E-47ED-88BC-1E65B3FC4ED4}|Hw7\\Hw7.csproj|solutionrelative:hw7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DED585-C42E-47ED-88BC-1E65B3FC4ED4}|Hw7\\Hw7.csproj|c:\\users\\setar\\documents\\c# projects\\week7\\hw7\\hw7\\entities\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DED585-C42E-47ED-88BC-1E65B3FC4ED4}|Hw7\\Hw7.csproj|solutionrelative:hw7\\entities\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DED585-C42E-47ED-88BC-1E65B3FC4ED4}|Hw7\\Hw7.csproj|c:\\users\\setar\\documents\\c# projects\\week7\\hw7\\hw7\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DED585-C42E-47ED-88BC-1E65B3FC4ED4}|Hw7\\Hw7.csproj|solutionrelative:hw7\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DED585-C42E-47ED-88BC-1E65B3FC4ED4}|Hw7\\Hw7.csproj|c:\\users\\setar\\documents\\c# projects\\week7\\hw7\\hw7\\service\\shppingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DED585-C42E-47ED-88BC-1E65B3FC4ED4}|Hw7\\Hw7.csproj|solutionrelative:hw7\\service\\shppingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DED585-C42E-47ED-88BC-1E65B3FC4ED4}|Hw7\\Hw7.csproj|c:\\users\\setar\\documents\\c# projects\\week7\\hw7\\hw7\\data\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DED585-C42E-47ED-88BC-1E65B3FC4ED4}|Hw7\\Hw7.csproj|solutionrelative:hw7\\data\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DED585-C42E-47ED-88BC-1E65B3FC4ED4}|Hw7\\Hw7.csproj|c:\\users\\setar\\documents\\c# projects\\week7\\hw7\\hw7\\enums\\categoryenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DED585-C42E-47ED-88BC-1E65B3FC4ED4}|Hw7\\Hw7.csproj|solutionrelative:hw7\\enums\\categoryenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\setar\\Documents\\C# projects\\week7\\Hw7\\Hw7\\Program.cs",
+              "RelativeDocumentMoniker": "Hw7\\Program.cs",
+              "ToolTip": "C:\\Users\\setar\\Documents\\C# projects\\week7\\Hw7\\Hw7\\Program.cs",
+              "RelativeToolTip": "Hw7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:47:03.375Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShppingService.cs",
+              "DocumentMoniker": "C:\\Users\\setar\\Documents\\C# projects\\week7\\Hw7\\Hw7\\Service\\ShppingService.cs",
+              "RelativeDocumentMoniker": "Hw7\\Service\\ShppingService.cs",
+              "ToolTip": "C:\\Users\\setar\\Documents\\C# projects\\week7\\Hw7\\Hw7\\Service\\ShppingService.cs",
+              "RelativeToolTip": "Hw7\\Service\\ShppingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:26:18.692Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "C:\\Users\\setar\\Documents\\C# projects\\week7\\Hw7\\Hw7\\Data\\Storage.cs",
+              "RelativeDocumentMoniker": "Hw7\\Data\\Storage.cs",
+              "ToolTip": "C:\\Users\\setar\\Documents\\C# projects\\week7\\Hw7\\Hw7\\Data\\Storage.cs",
+              "RelativeToolTip": "Hw7\\Data\\Storage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:27:10.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryEnum.cs",
+              "DocumentMoniker": "C:\\Users\\setar\\Documents\\C# projects\\week7\\Hw7\\Hw7\\Enums\\CategoryEnum.cs",
+              "RelativeDocumentMoniker": "Hw7\\Enums\\CategoryEnum.cs",
+              "ToolTip": "C:\\Users\\setar\\Documents\\C# projects\\week7\\Hw7\\Hw7\\Enums\\CategoryEnum.cs",
+              "RelativeToolTip": "Hw7\\Enums\\CategoryEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:15:10.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\setar\\Documents\\C# projects\\week7\\Hw7\\Hw7\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Hw7\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\setar\\Documents\\C# projects\\week7\\Hw7\\Hw7\\Entities\\User.cs",
+              "RelativeToolTip": "Hw7\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:17:53.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\setar\\Documents\\C# projects\\week7\\Hw7\\Hw7\\Entities\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Hw7\\Entities\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\setar\\Documents\\C# projects\\week7\\Hw7\\Hw7\\Entities\\ShoppingCart.cs",
+              "RelativeToolTip": "Hw7\\Entities\\ShoppingCart.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:43:14.92Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

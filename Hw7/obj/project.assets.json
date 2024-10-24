@@ -1,0 +1,105 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Colors.Net/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Colors.Net.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Colors.Net.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Colors.Net/1.1.0": {
+      "sha512": "RKpTbFKwAxz3CT2laSInQJ5RYmEjrchQL7b8dwaMoMCjjXHoASMJMUg2Flc/vev67/PlFDUqEL4dh/8rXNQA0Q==",
+      "type": "package",
+      "path": "colors.net/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "colors.net.1.1.0.nupkg.sha512",
+        "colors.net.nuspec",
+        "lib/netstandard2.0/Colors.Net.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Colors.Net >= 1.1.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\setar\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\setar\\Documents\\C# projects\\week7\\Hw7\\Hw7\\Hw7.csproj",
+      "projectName": "Hw7",
+      "projectPath": "C:\\Users\\setar\\Documents\\C# projects\\week7\\Hw7\\Hw7\\Hw7.csproj",
+      "packagesPath": "C:\\Users\\setar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\setar\\Documents\\C# projects\\week7\\Hw7\\Hw7\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\setar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Colors.Net": {
+            "target": "Package",
+            "version": "[1.1.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

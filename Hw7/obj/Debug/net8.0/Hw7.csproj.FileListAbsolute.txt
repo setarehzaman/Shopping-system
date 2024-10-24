@@ -1,0 +1,34 @@
+C:\Users\setar\Documents\C# projects\week7\Hw7\Hw7\obj\Debug\net8.0\Hw7.csproj.AssemblyReference.cache
+C:\Users\setar\Documents\C# projects\week7\Hw7\Hw7\obj\Debug\net8.0\Hw7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\setar\Documents\C# projects\week7\Hw7\Hw7\obj\Debug\net8.0\Hw7.AssemblyInfoInputs.cache
+C:\Users\setar\Documents\C# projects\week7\Hw7\Hw7\obj\Debug\net8.0\Hw7.AssemblyInfo.cs
+C:\Users\setar\Documents\C# projects\week7\Hw7\Hw7\obj\Debug\net8.0\Hw7.csproj.CoreCompileInputs.cache
+C:\Users\setar\Documents\C# projects\week7\Hw7\Hw7\bin\Debug\net8.0\Hw7.exe
+C:\Users\setar\Documents\C# projects\week7\Hw7\Hw7\bin\Debug\net8.0\Hw7.deps.json
+C:\Users\setar\Documents\C# projects\week7\Hw7\Hw7\bin\Debug\net8.0\Hw7.runtimeconfig.json
+C:\Users\setar\Documents\C# projects\week7\Hw7\Hw7\bin\Debug\net8.0\Hw7.dll
+C:\Users\setar\Documents\C# projects\week7\Hw7\Hw7\bin\Debug\net8.0\Hw7.pdb
+C:\Users\setar\Documents\C# projects\week7\Hw7\Hw7\bin\Debug\net8.0\Colors.Net.dll
+C:\Users\setar\Documents\C# projects\week7\Hw7\Hw7\obj\Debug\net8.0\Hw7.csproj.Up2Date
+C:\Users\setar\Documents\C# projects\week7\Hw7\Hw7\obj\Debug\net8.0\Hw7.dll
+C:\Users\setar\Documents\C# projects\week7\Hw7\Hw7\obj\Debug\net8.0\refint\Hw7.dll
+C:\Users\setar\Documents\C# projects\week7\Hw7\Hw7\obj\Debug\net8.0\Hw7.pdb
+C:\Users\setar\Documents\C# projects\week7\Hw7\Hw7\obj\Debug\net8.0\Hw7.genruntimeconfig.cache
+C:\Users\setar\Documents\C# projects\week7\Hw7\Hw7\obj\Debug\net8.0\ref\Hw7.dll
+C:\Users\setar\Desktop\Hw7\Hw7\bin\Debug\net8.0\Hw7.exe
+C:\Users\setar\Desktop\Hw7\Hw7\bin\Debug\net8.0\Hw7.deps.json
+C:\Users\setar\Desktop\Hw7\Hw7\bin\Debug\net8.0\Hw7.runtimeconfig.json
+C:\Users\setar\Desktop\Hw7\Hw7\bin\Debug\net8.0\Hw7.dll
+C:\Users\setar\Desktop\Hw7\Hw7\bin\Debug\net8.0\Hw7.pdb
+C:\Users\setar\Desktop\Hw7\Hw7\bin\Debug\net8.0\Colors.Net.dll
+C:\Users\setar\Desktop\Hw7\Hw7\obj\Debug\net8.0\Hw7.csproj.AssemblyReference.cache
+C:\Users\setar\Desktop\Hw7\Hw7\obj\Debug\net8.0\Hw7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\setar\Desktop\Hw7\Hw7\obj\Debug\net8.0\Hw7.AssemblyInfoInputs.cache
+C:\Users\setar\Desktop\Hw7\Hw7\obj\Debug\net8.0\Hw7.AssemblyInfo.cs
+C:\Users\setar\Desktop\Hw7\Hw7\obj\Debug\net8.0\Hw7.csproj.CoreCompileInputs.cache
+C:\Users\setar\Desktop\Hw7\Hw7\obj\Debug\net8.0\Hw7.csproj.Up2Date
+C:\Users\setar\Desktop\Hw7\Hw7\obj\Debug\net8.0\Hw7.dll
+C:\Users\setar\Desktop\Hw7\Hw7\obj\Debug\net8.0\refint\Hw7.dll
+C:\Users\setar\Desktop\Hw7\Hw7\obj\Debug\net8.0\Hw7.pdb
+C:\Users\setar\Desktop\Hw7\Hw7\obj\Debug\net8.0\Hw7.genruntimeconfig.cache
+C:\Users\setar\Desktop\Hw7\Hw7\obj\Debug\net8.0\ref\Hw7.dll
